@@ -142,7 +142,7 @@
 
 .card1 img {
   width: 90%;
-  height: 120px;
+  height: 160px;
 }
 
 .card1 h3 {
@@ -153,13 +153,13 @@
 
 .card1 p {
   color: white;
-  font-size: 10px;
+  font-size: 13px;
   font-weight: 400;
-  padding: 5px;
+  padding: 8px;
 }
 
 .pricr-tag {
-  font-size: 25spx;
+  font-size: 25px;
   background-color: lightcoral;
 }
 
