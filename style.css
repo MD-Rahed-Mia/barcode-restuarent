@@ -114,7 +114,7 @@
 }
 .card-list {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   padding: 2%;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -146,15 +146,15 @@
 
 .card1 h3 {
   color: white;
-  font-size: 25px;
+  font-size: 15px;
   font-weight: 700;
 }
 
 .card1 p {
   color: white;
-  font-size: 15px;
+  font-size: 10px;
   font-weight: 400;
-  padding: 10px;
+  padding: 5px;
 }
 
 .pricr-tag {
